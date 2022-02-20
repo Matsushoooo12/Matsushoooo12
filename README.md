@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Matsushoooo12/Matsushoooo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +15,5 @@ Here are some ideas to get you started:
 -->
 
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Matsushoooo12&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matsushoooo12)](https://github.com/anuraghazra/github-readme-stats)
