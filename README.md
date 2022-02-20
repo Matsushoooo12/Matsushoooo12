@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Matsushoooo12&theme=onedark&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Matsushoooo12&theme=onedark&column=7&rank=S,A
+[![trophy](https://github-profile-trophy.vercel.app/?username=Matsushoooo12&theme=onedark&column=7&title=Joined2020,Commits,Issues,Repositories,PullRequest
 )](https://github.com/ryo-ma/github-profile-trophy)
