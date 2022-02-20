@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Matsushoooo12&show_icons=true)
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Matsushoooo12&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matsushoooo12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
